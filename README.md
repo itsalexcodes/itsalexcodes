@@ -1,4 +1,4 @@
-# Hi, I’m Ace 👋
+# Hi, I’m Simmer 👋
 
 ✨ Curious beginner learning **Python** and building tiny projects.  
 💻 Currently learning: Python basics, NumPy, and small AI experiments.  
