@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I’m Ace 👋
+
+✨ Curious beginner learning **Python** and building tiny projects.  
+💻 Currently learning: Python basics, NumPy, and small AI experiments.  
+🌱 I share progress, tiny wins, and what I learn along the way.
+
+**Fun facts**
+- I love cozy designs and coding little things.  
+- Favorite project idea: an AI that makes mood playlists 🎧
+
+> “Starting small, dreaming big.” 🌷
 
 <!--
 **itsalexcodes/itsalexcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
